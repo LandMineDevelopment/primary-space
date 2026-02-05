@@ -2,7 +2,7 @@ local M = {
   {
     -- "LazyVim/LazyVim",
     "lazy/primary_space",
-    name = "primary_space",
+    name = "primary-space",
     priority = 1000,
     opts = {
       -- colorscheme = "aether",
