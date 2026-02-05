@@ -1,7 +1,7 @@
 local M = {
   {
     -- "LazyVim/LazyVim",
-    "primary_space",
+    "lazy/primary_space",
     name = "primary_space",
     priority = 1000,
     opts = {
