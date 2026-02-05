@@ -1,6 +1,9 @@
 local M = {
   {
-    "LazyVim/LazyVim",
+    -- "LazyVim/LazyVim",
+    "primary_space",
+    name = "primary_space",
+    priority = 1000,
     opts = {
       -- colorscheme = "aether",
       colorscheme = function()
@@ -180,5 +183,4 @@ local M = {
     },
   },
 }
-
 return M
