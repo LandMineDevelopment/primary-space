@@ -1,6 +1,6 @@
 return {
   {
-    "primary-space/nvim",
+    "LandMineDevelopment/primary-space.nvim",
     name = "primary-space",
     priority = 1000,
   },
