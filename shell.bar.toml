@@ -1,0 +1,5 @@
+# Match the original translucent charcoal Waybar.
+background = "#262626"
+background-alpha = 0.30
+text = "#e6e6e6"
+active = "#e65c5c"

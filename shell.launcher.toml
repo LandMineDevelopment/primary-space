@@ -1,0 +1,11 @@
+# Match the original Walker palette.
+background = "#000000"
+background-alpha = 0.50
+text = "#e6e6e6"
+border = "#ffcc66"
+border-alpha = 1.0
+selected-background = "#2a2a2a"
+selected-background-alpha = 0.20
+selected-text = "#66cc66"
+selected-border = "#ffcc66"
+selected-border-alpha = 0.50

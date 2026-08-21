@@ -1,0 +1,8 @@
+# Match the original Mako notification colors.
+background = "#262626"
+background-alpha = 0.31
+text = "#e6e6e6"
+border = "#e65c5c"
+border-alpha = 1.0
+border-width = 2
+countdown = "#66cc66"
