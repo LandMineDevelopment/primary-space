@@ -1,12 +1,12 @@
-# Preserve the original Hyprlock red/green state treatment.
+# Keep the password field aligned with the active-window border.
 background = "#262626"
 background-alpha = 0.80
 text = "#e6e6e6"
 placeholder = "#606060"
 text-error = "#e65c5c"
-border = "#e65c5c"
-border-active = "#66cc66"
+border = "#ffcc66"
+border-active = "#ffcc66"
 border-error = "#e65c5c"
 border-alpha = 1.0
-selection = "#6699ff"
+selection = "#ffcc66"
 selection-alpha = 0.45

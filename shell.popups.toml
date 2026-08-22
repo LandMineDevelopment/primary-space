@@ -1,7 +1,7 @@
-# Match the translucent red-bordered OSD surfaces.
+# Match popup borders to the active-window highlight.
 background = "#262626"
 background-alpha = 0.44
 text = "#e6e6e6"
-border = "#e65c5c"
+border = "#ffcc66"
 border-alpha = 1.0
 border-width = 2

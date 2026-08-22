@@ -1,0 +1,5 @@
+# Today in the calendar uses the normal control border. Tie that outline to
+# the active-window border color used by this theme.
+normal-color = "#ffcc66"
+normal-border = "#ffcc66"
+normal-border-alpha = 1.0
