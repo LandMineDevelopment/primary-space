@@ -2,10 +2,10 @@ mode = "dark"
 
 # Primary Space semantic palette for Omarchy 4.
 accent = "#ffdd80"
-selection = "#f5e0dc"
-selection_foreground = "#1e1e2e"
+selection = "#404040"
+selection_foreground = "#e6e6e6"
 muted = "#606060"
-cursor = "#f5e0dc"
+cursor = "#ffcc66"
 
 background = "#262626"
 dark_background = "#0d0d0d"

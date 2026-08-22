@@ -39,8 +39,8 @@ cyan    = "#80e6e6"
 white   = "#ffffff"  
 
 [colors.selection]
-text = "#ffffff"
-background = "#2a2a2a" 
+text = "#e6e6e6"
+background = "#404040"
 
 [colors.vi_mode_cursor]
 text   = "#0d0d0d"
