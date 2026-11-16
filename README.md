@@ -11,7 +11,14 @@ omarchy theme install https://github.com/LandMineDevelopment/primary-space
 omarchy theme set primary-space
 ```
 
-Update an installed copy with `omarchy theme update`.
+Update an installed copy with `omarchy theme update`. Commit local theme edits
+before updating so they remain recoverable. This theme is versioned separately
+from [omarchy_configs](https://github.com/LandMineDevelopment/omarchy_configs).
+
+Popup surfaces use black at 92% opacity with the warm yellow border so text stays
+readable over busy backgrounds. Other surfaces retain the charcoal palette.
+Omarchy regenerates executable theme formats from `colors.toml` when installing
+a cloned theme; personal behavior belongs in the config repository, not here.
 
 ## Palette
 

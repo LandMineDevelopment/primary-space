@@ -1,6 +1,6 @@
 # Match popup borders to the active-window highlight.
-background = "#262626"
-background-alpha = 0.44
+background = "#000000"
+background-alpha = 0.92
 text = "#e6e6e6"
 border = "#ffcc66"
 border-alpha = 1.0
